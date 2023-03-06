@@ -33,7 +33,7 @@ git init
 ```shell
 git status
 ```
-
+3. The git status command allows you to know the status of the project: If it is initiated, modified, staged
 ![alt Github image](images/Git%20Status.png)
 
 3. For Git to recognize this file, we need to add it to the staging area and create a commit. <br>
