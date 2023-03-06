@@ -1,6 +1,10 @@
 ![alt Github image](images/GitHub.jpg)
 <!-- # Git-GitHub-GitHubClassroom -->
 # Introduction: Git and GitHub
+- Git is a free and open source distributed version control system.
+- Git is used to tracking changes in the source code and enabling multiple developers to work together.
+- GitHub is an online software development platform. It's used for storing, tracking, and collaborating on software projects.
+
 ## 1. Installing Git
 First, we need to install Git: the version control software.
 - Git:
