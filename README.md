@@ -73,7 +73,18 @@ The message should be short and accurately describes the changes made. A clear m
 
 ![alt Github image](images/Git%20Commit.png)
 
-
+To list all commits in The Local Repository
+```shell
+   git log
+```
+To list only latest 3 commits
+```shell
+   git log -p -2
+```
+To go back to a specific commi
+```shell
+   git checkout commitID
+```
 ## 5. Remote
 First, we need to create an account GitHub.
 - GitHub:
