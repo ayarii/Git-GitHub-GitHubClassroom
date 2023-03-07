@@ -92,7 +92,22 @@ First, we need to create an account GitHub.
 
 ### 5.1. Create a Repository
 ![alt Github image](images/GitHubRepository.png)
-
+### 5.2. Add a new remote to local repo
+```shell
+   git remote add origin https://github.com/user/repo.git
+```
+### 5.3. Push to remote
+```shell
+   git push
+```
+### 5.4. Pull to local
+```shell
+   git pull
+```
+### 5.5 Copy an existing remote repository onto your local machine
+```shell
+git clone URL_OF_REPO
+```
 
 
 ## 6. Branches
