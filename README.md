@@ -73,5 +73,16 @@ The message should be short and accurately describes the changes made. A clear m
 
 ![alt Github image](images/Git%20Commit.png)
 
-## 5. Branches
+
+## 5. Remote
+First, we need to create an account GitHub.
+- GitHub:
+  [gitHub](https://github.com)
+
+### 5.1. Create a Repository
+![alt Github image](images/GitHubRepository.png)
+
+
+
+## 6. Branches
 <!-- # Basic Command Lines -->
