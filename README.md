@@ -92,15 +92,15 @@ First, we need to create an account GitHub.
 
 ### 5.1. Create a Repository
 ![alt Github image](images/GitHubRepository.png)
-### 5.2. Add a new remote to local repo
+### 5.2. Add a new remote to local repository
 ```shell
    git remote add origin https://github.com/user/repo.git
 ```
-### 5.3. Push to remote
+### 5.3. Push to remote repository
 ```shell
    git push
 ```
-### 5.4. Pull to local
+### 5.4. Pull to local repository
 ```shell
    git pull
 ```
