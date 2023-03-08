@@ -31,16 +31,16 @@ git init
 ## 4. Staging & Tracking Files
 
 ### 4.1. Adding files to the staging area
-1. Create a file named _index.html_ containing a simple _\<h1> tag_
-2. Git does not know about the file _index.html_. We can check the tracked files using the following command:
+4.1.1. Create a file named _index.html_ containing a simple _\<h1> tag_
+4.1.2. Git does not know about the file _index.html_. We can check the tracked files using the following command:
 
 ```shell
 git status
 ```
-3. The git status command allows you to know the status of the project: If it is initiated, modified, staged
+4.1.3. The git status command allows you to know the status of the project: If it is initiated, modified, staged
 ![alt Github image](images/Git%20Status.png)
 
-3. For Git to recognize this file, we need to add it to the staging area and create a commit. <br>
+4.1.4. For Git to recognize this file, we need to add it to the staging area and create a commit. <br>
 There are multiple ways to add files to the staging area. <br>
 - Add a single file
 ```shell
@@ -58,7 +58,7 @@ There are multiple ways to add files to the staging area. <br>
 ![alt Github image](images/Git%20track.png)
 
 
-4. To remove a file from the staging area, we need to use the following command:
+4.1.5. To remove a file from the staging area, we need to use the following command:
 ```shell
     git rm --cached filename
 ```
@@ -92,7 +92,7 @@ First, we need to create an account GitHub.
 
 ### 5.1. Create a Repository
 ![alt Github image](images/GitHubRepository.png)
-### 5.2. Add a new remote to local repository
+### 5.2. Add a new remote to a local repository
 ```shell
    git remote add origin https://github.com/user/repo.git
 ```
@@ -103,7 +103,7 @@ For the first push, we need to use this commend:
 ```
 - --set-upstream: The git set-upstream allows you to set the default remote branch for your current local branch
 - origin master: The default bransh
-### 5.4. Pull to a local repository: The git pull command s used to fetch and download content from a remote repository and immediately update the local repository to match that content
+### 5.4. Pull to a local repository: The git pull command si used to fetch and download content from a remote repository and immediately update the local repository to match that content
 ```shell
    git pull
 ```
