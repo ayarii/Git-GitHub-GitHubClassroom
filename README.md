@@ -96,11 +96,14 @@ First, we need to create an account GitHub.
 ```shell
    git remote add origin https://github.com/user/repo.git
 ```
-### 5.3. Push to remote repository
+### 5.3. Push to a remote repository: The git push command is used to upload local repository content to a remote repository
+For the first push, we need to use this commend: 
 ```shell
-   git push
+   git push --set-upstream origin master
 ```
-### 5.4. Pull to local repository
+- --set-upstream: The git set-upstream allows you to set the default remote branch for your current local branch
+- origin master: The default bransh
+### 5.4. Pull to a local repository: The git pull command s used to fetch and download content from a remote repository and immediately update the local repository to match that content
 ```shell
    git pull
 ```
