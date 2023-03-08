@@ -10,7 +10,7 @@ First, we need to install Git: the version control software.
 - Git:
   Install [git](https://git-scm.com/downloads)
 
-## 2. Configuring Git Account
+## 2. Configuring Git Accountf
 Open a terminal on your Windows or Mac and then write the following commands:
 ![alt Github image](images/config.svg)
 
@@ -102,7 +102,7 @@ For the first push, we need to use this commend:
    git push --set-upstream origin master
 ```
 - --set-upstream: The git set-upstream allows you to set the default remote branch for your current local branch
-- origin master: The default bransh
+- origin master: The default branch
 ### 5.4. Pull to a local repository: The git pull command si used to fetch and download content from a remote repository and immediately update the local repository to match that content
 ```shell
    git pull
