@@ -115,3 +115,19 @@ git clone URL_OF_REPO
 
 ## 6. Branches
 <!-- # Basic Command Lines -->
+### 6.1 Add a new Branch
+```shell
+git branch branch_name
+```
+### 6.2 Switch to another branch
+```shell
+git checkout branch_name
+```
+### 6.3 Merge
+```shell
+git merge branch_name
+```
+### 6.3 List of branch
+```shell
+git branch
+```
