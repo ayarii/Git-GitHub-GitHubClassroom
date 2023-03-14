@@ -115,6 +115,8 @@ git clone URL_OF_REPO
 ## 6. Branches
 The branch is the copy of the main(or master) at branching instant. After branching, the branch and the master don't see each other. 
 You can create as many branches as you want.
+
+
 ![alt Github image](images/github.png)
 
 ### 6.1 Add a new Branch
