@@ -114,6 +114,8 @@ git clone URL_OF_REPO
 
 
 ## 6. Branches
+The branch is the copy of the main(or master) at branching instant. After branching, the branch and the master don't see each other. 
+You can create as many branches as you want.
 <!-- # Basic Command Lines -->
 ### 6.1 Add a new Branch
 ```shell
@@ -123,11 +125,23 @@ git branch branch_name
 ```shell
 git checkout branch_name
 ```
-### 6.3 Merge
+### 6.3 Create and checkout to the branch at the same time
+```shell
+git checkout -b branch-name
+```
+### 6.4 Merge a branch to the current branch
 ```shell
 git merge branch_name
 ```
-### 6.3 List of branch
+### 6.5 List of branch
 ```shell
 git branch
+```
+### 6.6 Rename Branch
+```shell
+git branch -m <oldname> <newname>
+```
+### 6.7 Delete Branch
+```shell
+git branch -d branch-name
 ```
