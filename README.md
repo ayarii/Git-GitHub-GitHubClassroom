@@ -10,7 +10,7 @@ First, we need to install Git: the version control software.
 - Git:
   Install [git](https://git-scm.com/downloads)
 
-## 2. Configuring Git Accountf
+## 2. Configuring Git Account
 Open a terminal on your Windows or Mac and then write the following commands:
 ![alt Github image](images/config.svg)
 
@@ -103,6 +103,12 @@ For the first push, we need to use this commend:
 ```
 - --set-upstream: The git set-upstream allows you to set the default remote branch for your current local branch
 - origin master: The default branch
+
+OR
+```shell
+   git push -u origin master
+```
+
 ### 5.4. Pull to a local repository: The git pull command si used to fetch and download content from a remote repository and immediately update the local repository to match that content
 ```shell
    git pull
@@ -129,21 +135,33 @@ git checkout branch_name
 ```
 ### 6.3 Create and checkout to the branch at the same time
 ```shell
-git checkout -b branch-name
+git checkout -b branch_name
 ```
 ### 6.4 Merge a branch to the current branch
 ```shell
 git merge branch_name
 ```
-### 6.5 List of branch
+### 6.5 List of branches
 ```shell
 git branch
 ```
 ### 6.6 Rename Branch
+To rename any existing branch
 ```shell
-git branch -m <oldname> <newname>
+git branch -m <old-name> <new-name>
 ```
-### 6.7 Delete Branch
+To rename the current branch
 ```shell
-git branch -d branch-name
+git branch -m <new-name>
+```
+
+### 6.7 Delete Branch
+The branch must be fully merged in its upstream branch.
+```shell
+git branch -d branch_name
+```
+OR
+Use the flag -D to force the branch delete.
+```shell
+git branch -D branch_name
 ```
