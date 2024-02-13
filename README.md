@@ -6,8 +6,8 @@
 - GitHub is an online software development platform. It's used for storing, tracking, and collaborating on software projects.
 - In January 2022, GitHub hosted over 100 million repositories on its platform.
 - More than 65 million developers actively use GitHub to collaborate on open source and private projects.
-- ![alt Github image](images/(images/Git%20Diagram.svg))
- ![alt Github image](images/language.PNG)
+![alt Github image](images/languages.JPG)
+
 ## 1. Installing Git
 First, we need to install Git: the version control software.
 - Git:
