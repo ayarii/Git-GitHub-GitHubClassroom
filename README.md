@@ -34,8 +34,8 @@ git init
 ## 4. Staging & Tracking Files
 
 ### 4.1. Adding files to the staging area
-4.1.1. Create a file named _index.html_ containing a simple _\<h1> tag_
-4.1.2. Git does not know about the file _index.html_. We can check the tracked files using the following command:
+#### 4.1.1. Create a file named _index.html_ containing a simple _\<h1> tag_
+#### 4.1.2. Git does not know about the file _index.html_. We can check the tracked files using the following command:
 
 ```shell
 git status
