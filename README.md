@@ -88,20 +88,22 @@ To go back to a specific commi
 ```shell
    git checkout commitID
 ```
-Commit types
+## Commit Types
+
 | Commit Type | Title                    | Description                                                                                                 | Emoji  |
-| ----------- | ------------------------ | ----------------------------------------------------------------------------------------------------------- |:------:|
+|------------|-------------------------|------------------------------------------------------------------------------------------------------------|:------:|
 | `feat`      | Features                 | A new feature                                                                                               | ✨     |
-| `fix`       | Bug Fixes                | A bug Fix                                                                                                   | 🐛     |
-| `docs`      | Documentation            | Documentation only changes                                                                                  | 📚     |
-| `style`     | Styles                   | Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)      | 💎     |
+| `fix`       | Bug Fixes                | A bug fix                                                                                                   | 🐛     |
+| `docs`      | Documentation            | Documentation-only changes                                                                                   | 📚     |
+| `style`     | Styles                   | Changes that do not affect the meaning of the code (white space, formatting, missing semicolons, etc.)      | 💎     |
 | `refactor`  | Code Refactoring         | A code change that neither fixes a bug nor adds a feature                                                   | 📦     |
 | `perf`      | Performance Improvements | A code change that improves performance                                                                     | 🚀     |
 | `test`      | Tests                    | Adding missing tests or correcting existing tests                                                           | 🚨     |
-| `build`     | Builds                   | Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)         | 🛠     |
-| `ci`        | Continuous Integrations  | Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs) | ⚙️     |
-| `chore`     | Chores                   | Other changes that don't modify src or test files                                                           | ♻️     |
-| `revert`    | Reverts                  | Reverts a previous commit   
+| `build`     | Builds                   | Changes that affect the build system or external dependencies (e.g., gulp, broccoli, npm)                   | 🛠     |
+| `ci`        | Continuous Integration   | Changes to CI configuration files and scripts (e.g., Travis, CircleCI, BrowserStack, SauceLabs)            | ⚙️     |
+| `chore`     | Chores                   | Other changes that do not modify source or test files                                                       | ♻️     |
+| `revert`    | Reverts                  | Reverts a previous commit                                                                                   | 🔄     |
+
 ## 5. Remote
 First, we need to create an account GitHub.
 - GitHub:
