@@ -7,6 +7,8 @@
 - In January 2022, GitHub hosted over 100 million repositories on its platform.
 - More than 65 million developers actively use GitHub to collaborate on open source and private projects.
 ![alt Github image](images/languages.JPG)
+## Basic Concepts
+![alt Github image](images/Git%20Diagram.svg)
 
 ## 1. Installing Git
 First, we need to install Git: the version control software.
