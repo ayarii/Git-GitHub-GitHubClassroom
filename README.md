@@ -7,6 +7,7 @@
 - In January 2022, GitHub hosted over 100 million repositories on its platform.
 - More than 65 million developers actively use GitHub to collaborate on open source and private projects.
 ![alt Github image](images/languages.JPG)
+
 # Git - Basic Concepts
 ![alt Github image](images/Git%20Diagram.svg)
 
