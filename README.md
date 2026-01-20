@@ -187,3 +187,18 @@ Use the flag -D to force the branch delete.
 ```shell
 git branch -D branch_name
 ```
+
+## 📚 Academic References
+
+1. Git SCM. *Git Official Documentation*.  
+   https://git-scm.com/docs
+
+2. GitHub. *GitHub Documentation*.  
+   https://docs.github.com
+
+3. *Learn Git Branching*. Interactive Git learning platform.  
+   https://learngitbranching.js.org
+
+4. GitHub Education. *Git Cheat Sheet*.  
+   https://education.github.com/git-cheat-sheet-education.pdf
+
