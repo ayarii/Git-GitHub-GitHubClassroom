@@ -201,3 +201,5 @@ git branch -D branch_name
 4. GitHub Education. *Git Cheat Sheet*.  
    https://education.github.com/git-cheat-sheet-education.pdf
 
+This educational project is licensed under the MIT License. Details can be found in the LICENSE
+ file.
