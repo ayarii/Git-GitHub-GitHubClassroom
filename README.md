@@ -187,6 +187,44 @@ Use the flag -D to force the branch delete.
 ```shell
 git branch -D branch_name
 ```
+
+## 7.  What is a Fork?
+
+A **fork** is a personal copy of someone else’s repository, created under your own account.
+
+Forks are mainly used when you **do not have write access** to the original repository.  
+They allow you to freely experiment, make changes, and propose improvements without affecting the original project.
+
+When you fork a repository:
+- A full copy of the project is created in your account
+- You can commit and push changes independently
+- You can later propose your changes via a **Pull Request**
+
+You should use a fork in the following situations:
+
+-  **Contributing to open-source projects**  
+  (You are not a member of the original team)
+
+-  **Working on repositories you don’t own**  
+  (No direct push permissions)
+
+-  **Submitting assignments via GitHub Classroom**  
+  (Each student works on their own forked repository)
+
+Forks are a safe and standard way to collaborate without risking the stability of the original project.
+
+## 🆚 Fork vs Branch (Summary)
+
+| Feature | Branch | Fork |
+|------|------|------|
+| Location | Same repository | New repository |
+| Permissions | Requires write access | No write access needed |
+| Use case | Team collaboration | External contributions |
+| Ownership | Shared | Personal copy |
+
+- Use **branches** when you are part of the same team and have access
+- Use **forks** when contributing from outside the repository
+
 ## 📚 Academic References
 
 1. Git SCM. *Git Official Documentation*.  
