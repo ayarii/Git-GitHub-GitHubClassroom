@@ -239,5 +239,8 @@ Forks are a safe and standard way to collaborate without risking the stability o
 4. GitHub Education. *Git Cheat Sheet*.  
    https://education.github.com/git-cheat-sheet-education.pdf
 
-This educational project is licensed under the MIT License. Details can be found in the LICENSE
- file.
+
+This educational content is licensed under the  
+**Creative Commons Attribution–ShareAlike 4.0 International License (CC BY-SA 4.0)**. 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+ 
