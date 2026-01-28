@@ -225,9 +225,6 @@ Forks are a safe and standard way to collaborate without risking the stability o
 - Use **branches** when you are part of the same team and have access
 - Use **forks** when contributing from outside the repository
 
-## 📚 Academic References
-
-
 ## What is a Pull Request?
 
 A **Pull Request (PR)** is a way to **propose changes** to a repository and ask the project owner (or teacher) to **review and merge** those changes.
@@ -319,6 +316,7 @@ If changes are requested, you can **update your code** and push new commits to t
 
 Pull Requests are **safer and more professional**.
 
+## 📚 Academic References
 1. Git SCM. *Git Official Documentation*.  
    https://git-scm.com/docs
 
