@@ -227,18 +227,6 @@ Forks are a safe and standard way to collaborate without risking the stability o
 
 ## 📚 Academic References
 
-1. Git SCM. *Git Official Documentation*.  
-   https://git-scm.com/docs
-
-2. GitHub. *GitHub Documentation*.  
-   https://docs.github.com
-
-3. *Learn Git Branching*. Interactive Git learning platform.  
-   https://learngitbranching.js.org
-
-4. GitHub Education. *Git Cheat Sheet*.  
-   https://education.github.com/git-cheat-sheet-education.pdf
-
 
 ## What is a Pull Request?
 
@@ -330,6 +318,18 @@ If changes are requested, you can **update your code** and push new commits to t
 | Pull Request| Team work, forks, classroom submissions |
 
 Pull Requests are **safer and more professional**.
+
+1. Git SCM. *Git Official Documentation*.  
+   https://git-scm.com/docs
+
+2. GitHub. *GitHub Documentation*.  
+   https://docs.github.com
+
+3. *Learn Git Branching*. Interactive Git learning platform.  
+   https://learngitbranching.js.org
+
+4. GitHub Education. *Git Cheat Sheet*.  
+   https://education.github.com/git-cheat-sheet-education.pdf
 
 
 This educational content is licensed under the  
